@@ -1,0 +1,28 @@
+body{
+
+}
+
+.Top{
+display: flex;
+gap: 12px;
+height: 50px;
+width: 2000px;
+background-color:beige
+
+}
+.main{
+    margin-top: 200px;
+    text-align: center;
+    background-color: beige;
+    height: 250px;
+
+}
+#hi{
+    padding-top: 80px;
+}
+.About{
+    margin-left: 1090px;
+}
+.Nivedha{
+    text-shadow: 5px;
+}
